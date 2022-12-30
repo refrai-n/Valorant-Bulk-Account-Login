@@ -1,4 +1,4 @@
-# Valorant-Account-Booster-Assist
+# Valorant-Bulk-Account-Login
 𝙃𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚: 
 1. Make a text file and copy all your accounts to it as a list (You only have to do this once don't worry). Example is attached as a pic.
 2. Download the program from the link below and extract it anywhere, run "Val Booster.exe". 
